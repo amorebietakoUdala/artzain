@@ -38,6 +38,7 @@
         "build": "encore production --progress"
     },
     "resolutions": {
+        "canvg": "^4.0.2",
         "jquery": "3.6.1",
         "semver": "^7.5.2",
         "cookie": "0.7.0",
