@@ -8,7 +8,7 @@
         "@hotwired/stimulus": "^3.2.2",
         "@popperjs/core": "^2.11.6",
         "@symfony/stimulus-bridge": "^3.2.0 || ^4.0.0",
-        "@symfony/webpack-encore": "^3.0.0",
+        "@symfony/webpack-encore": "^5.0.0",
         "bootstrap": "^5.2",
         "bootstrap-table": "1.21.1",
         "core-js": "^3.23.0",
